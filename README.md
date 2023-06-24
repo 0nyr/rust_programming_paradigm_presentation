@@ -2,13 +2,10 @@
 
 ## subjects
 
-**Florian**: Generic Programming and Traits
+> 5853 Programming Paradigms course, Universität Passau, summer 2023
 
-**Clément lahoche**: Ownership and lifetimes
+> Presentation: 27.06.2023
 
-Can you make a presentation about Generic Programming and Traits in rust ?
+**Florian Rascoussier**: Generic Programming and Traits
 
-Can you make a presentation about Ownership and lifetime in Rust?
-
-autoGPT: You are a master student in computer science as well as a researcher.
-You need to create a presentation in a course called "Programing Paradigm". Create a presentation with slides and code examples about about Generic Programming and Traits in rust. You can use the following presentation outline. Propose code examples as code snippets, I will run them myself.
+**Clément lahoche**: Ownership and Lifetimes
